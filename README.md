@@ -1,5 +1,5 @@
-# YCharts API Python Client (SAMPLE)
-This is a python client for accessing the YCharts API.
+# YCharts API R Client (SAMPLE)
+This is a R client for accessing the YCharts API.
 
 ## API Documentation
 For additional documentation, please see [our website](https://ycharts.com/api/docs/)
